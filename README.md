@@ -2,23 +2,24 @@
 
 Hi!
 
+**Welcome** to the latest version of Horiseon's 
+live site featuring updated accessibility considerations including: 
 
-Welcome to the latest version of Horiseon's 
-live site featuring updated accessibility considerations including, but
-not limited to: 
+* HTML semantics for a cleaner read 
 
-* Image descriptions 
+* HTML/CSS consolidated and formatted in logical order
 
-* Include HTML semantics for a cleaner read 
+* Updated CSS style sheet comments
 
-* Consolidated and formatted HTML/CSS  
+* Updated alt atributes
 
-* Updated comments
-
-
+* Working links 
 
 
+[Screenshot of updated Horiseon Website](/assets/images/live-site.png)
 
+Github Repository:
+https://github.com/guaaur04/Horiseon
 
-Link: https://guaaur04.github.io/Horiseon/
-
+Deployed Application:
+https://guaaur04.github.io/Horiseon/
